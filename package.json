@@ -1,0 +1,27 @@
+{
+  "name": "-qa",
+  "version": "1.0.0",
+  "description": "Создание автотестов",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cheresha5/-QA.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/cheresha5/-QA/issues"
+  },
+  "homepage": "https://github.com/cheresha5/-QA#readme",
+  "dependencies": {
+    "@playwright/test": "^1.62.1"
+  }
+}
