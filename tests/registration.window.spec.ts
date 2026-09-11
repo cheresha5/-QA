@@ -1,4 +1,4 @@
-//Тест-кейс проверяет регистрацию
+//Тест-кейс проверяет окно регистрации
 import { test, expect } from "@playwright/test";
 import { goToMainPage } from "../helpers/index";
 import { LoginPage } from "../pages/login.page";
